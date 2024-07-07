@@ -1,0 +1,35 @@
+ 1820  yarn add torch-js@npm:@arition/torch-js
+ 1821  npm install torch-js
+ 1822  npm install torch-js@npm:@arition/torch-js
+ 1823  conda env list
+ 1824  conda activate pytorch-gpu
+ 1825  conda activate pytorch_gpu
+ 1826  cmake --version
+ 1827  conda install cmake
+ 1828  cmake --version
+ 1829  npm install torch-js@npm:@arition/torch-js
+ 1830  npm build
+ 1831  npm run
+ 1832  npm build
+ 1833  npm build train
+ 1834  npm build
+ 1835  npm run
+ 1836  npm run build
+ 1837  npm install tslint
+ 1838  npm run build
+ 1839  npm install linted
+ 1840  npm run build
+ 1841  npm install tslint-config-prettier
+ 1842  npm run build
+ 1843  npm install typescript
+ 1844  npm run build
+ 1845  npm i --save-dev @types/nodeV
+ 1846  npm i --save-dev @types/node
+ 1847  npm run build
+ 1848  npm run test
+ 1849  npm run train
+ 1850  npm run
+ 1851  npm run build
+ 1852  npm run start
+ 1853  npm run build
+ 1854  npm run start

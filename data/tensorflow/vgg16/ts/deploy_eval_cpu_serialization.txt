@@ -1,0 +1,28 @@
+Test average:
+11.35548
+Test:
+11.343399999999999
+11.412400000000002
+11.338600000000001
+11.3666
+11.3164
+Train average:
+57.01224
+Train:
+56.90259999999999
+56.9774
+57.085800000000006
+56.9086
+57.186800000000005
+Test Set Same Acc:
+true
+true
+true
+true
+true
+Train Set Same Acc:
+true
+true
+true
+true
+true

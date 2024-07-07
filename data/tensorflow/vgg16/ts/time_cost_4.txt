@@ -1,0 +1,16 @@
+Training Time:
+37976.621
+Total Time:
+43329.318
+Eval Time:
+5352.696999999998
+Testing Loss:
+1.0272746086120605
+Testing Acc:
+0.8593000173568726
+Training Loss:
+0.0000012167836302978685
+Training Acc:
+1
+Seed:
+868822724

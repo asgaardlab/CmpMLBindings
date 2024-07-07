@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "outDir": "build",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "build"
+  ],
+  "include": [
+    "./sources/index.ts",
+    "./sources/migrations",
+    "./sources/ts-typings"
+  ]
+}
